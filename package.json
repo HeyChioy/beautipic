@@ -1,0 +1,14 @@
+{
+  "name": "beautipic",
+  "version": "1.0.0",
+  "description": "获取Bing美图JSON数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyuuseiryuu",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^2.3.0"
+  }
+}
