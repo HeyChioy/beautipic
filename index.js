@@ -31,7 +31,7 @@ var get = function(idx,cbk){
     idx = 0
   }
   this.all(function(err,all){
-    cbk(err,all.images[parseInt(i%8)])
+    cbk(err,all.images[parseInt(idx%8)])
   })
 }
 
