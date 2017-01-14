@@ -1,14 +1,42 @@
-﻿{
+{
   "name": "beautipic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "获取Bing美图JSON数据",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kyuuseiryuu",
+  "author": {
+    "name": "Kyuuseiryuu"
+  },
   "license": "ISC",
   "dependencies": {
     "superagent": "^2.3.0"
-  }
+  },
+  "gitHead": "93f72afa455b7810e02f2f0d5306c38f0ba38a1e",
+  "_id": "beautipic@1.0.1",
+  "_shasum": "6b26f4033eeae5c1884e7a8f3cc94a74401a4344",
+  "_from": "beautipic@latest",
+  "_resolved": "https://registry.npmjs.org/beautipic/-/beautipic-1.0.1.tgz",
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.6.0",
+  "_npmUser": {
+    "name": "kyuuseiryuu",
+    "email": "heychioy@foxmail.com"
+  },
+  "dist": {
+    "shasum": "6b26f4033eeae5c1884e7a8f3cc94a74401a4344",
+    "tarball": "https://registry.npmjs.org/beautipic/-/beautipic-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "kyuuseiryuu",
+      "email": "heychioy@foxmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/beautipic-1.0.1.tgz_1476193959192_0.048142436193302274"
+  },
+  "directories": {}
 }
